@@ -1,0 +1,16 @@
+**/build
+**/classes
+/.settings
+.DS_Store
+.DS_Store?
+*.orig
+.idea
+*.iml
+*.ipr
+*.iws
+.gradle/
+out/
+server.out
+**/*.log
+/.floo
+/.flooignore
