@@ -14,3 +14,4 @@ server.out
 **/*.log
 /.floo
 /.flooignore
+deploy/*
